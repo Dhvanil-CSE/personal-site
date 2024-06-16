@@ -79,9 +79,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Brain Tumor Detection
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Guided students in mastering CNNs for brain tumor detection models with accuracy of 89%"
 
       - title: DevStudio
         link: "#"
