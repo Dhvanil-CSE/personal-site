@@ -113,11 +113,11 @@ projects:
 
       - title: Zero Knowledge Proofs
         link: "#"
-        tagline: "Studied and comprehended eleven chapters from "Proofs, Arguments, and Zero-Knowledge" by Justin Thaler, culminating in a detailed report on Zero Knowledge Proofs and Arguments"
+        tagline: "Studied and comprehended eleven chapters from 'Proofs, Arguments, and Zero-Knowledge' by Justin Thaler, culminating in a detailed report on Zero Knowledge Proofs and Arguments"
 
       - title: Topology
         link: "#"
-        tagline: "Studied and comprehended six chapters from "Topology without tears" by Justin Thaler, culminating in a detailed report on Topological Spaces"
+        tagline: "Studied and comprehended six chapters from 'Topology without tears' by Justin Thaler, culminating in a detailed report on Topological Spaces"
 
       - title: Wordle Solver
         link: "#"
