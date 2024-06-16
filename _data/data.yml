@@ -71,7 +71,7 @@ experiences:
         company: TechFest, IIT Bombay
         details: |
             I successfully coordinated and managed over 200 College Ambassadors for the execution of Techfest zonals. In this role, I contacted and invited professors from around the globe to showcase their projects and research at an exhibition. Additionally, I coordinated significant events such as a Cyclothon and a stem cell donation drive in collaboration with a prominent NGO.
-      
+certifications:      
 projects:
     title: Projects
     intro: >
@@ -124,7 +124,9 @@ projects:
       - title: Some basic ML models
         link: "#"
         tagline: "Solved some basic ML problems from kaggle using sklearn and pytorch"
-
+oss:
+publications:
+skills:
     
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
