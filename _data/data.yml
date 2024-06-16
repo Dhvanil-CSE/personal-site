@@ -75,55 +75,30 @@ certifications:
 projects:
     title: Projects
     intro: >
-      I have undertaken and completed the following projects, each reflecting my skills and dedication to delivering high-quality work.
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Brain Tumor Detection
+      - title: Velocity
         link: "#hook"
-        tagline: "Guided students in mastering CNNs for brain tumor detection models with accuracy of 89%"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Homomorphic Encryption of k-NN on the cloud
+      - title: DevStudio
         link: "#"
-        tagline: "Developed a secure and controllable k-NN query system over encrypted cloud data, utilizing Homomorphic Encryption, Docker, sockets, and SageMath to enhance database security and efficiency, based on the research by Youwen Zhu, Zhiqiu Huang, and Tsuyoshi Takagi"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Introduction to Cryptography
+      - title: Tempo
         link: "#"
-        tagline: "Developed a Vigenère Cracker that decrypts encoded messages using frequency analysis and a minimized chi-squared statistic, and implemented RSA digital signatures with SHA-256 for file integrity verification."
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Neural Networks and LLMs
+      - title: Atom
         link: "#"
-        tagline: "Fine-tuned the MT5 model for language identification with pipelines and transformers, implemented Skip-gram word embeddings for word vector analysis, and developed an 86% accurate sentiment analysis system for movie reviews using LSTM and RNN."
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Into the RLverse
+      - title: Delta
         link: "#"
-        tagline: "Implemented algorithms like Thompson Sampling (TS) and Upper Confidence Bound (UCB) for Multi-Armed Bandits (MAB), understood and applied Monte Carlo and TD algorithms with eligibility traces, and developed RL models including Deep Q Networks and Dueling Deep Q Networks for environments like CartPole and Atari: Breakout from OpenAI Gym."
-      
-      - title: Algorithmic Trader
-        link: "#"
-        tagline: "Executed algorithmic trading strategies such as arbitrage and median filter, managing the order book with advanced Data Structures and Algorithms (DSA) to optimize trade execution. Applied OOP principles in C++ to develop custom data structures for efficient data management."
-      
-      - title: Data Compression and Text Processing
-        link: "#"
-        tagline: "Implemented Run Length Encoding (RLE) and Huffman compression algorithms in C++, utilizing trie structures for compression and decompression functionalities. Executed the KMP Pattern Matching Algorithm for precise string pattern matching and designed fundamental data structures such as Heap and Red-Black Tree in C++ for efficient operations."
-      
-      - title: Customised Web Crawler
-        link: "#"
-        tagline: "Implemented a Web Crawler using BeautifulSoup for parsing websites, NumPy for data handling, and Matplotlib for visualizing file types with Bar charts, while incorporating customizable recursion thresholds and output categorization capabilities."
-      
-      - title: Zero Knowledge Proofs
-        link: "#"
-        tagline: "Studied and comprehended eleven chapters from "Proofs, Arguments, and Zero-Knowledge" by Justin Thaler, culminating in a detailed report on Zero Knowledge Proofs and Arguments."
-      
-      - title: Topology
-        link: "#"
-        tagline: "Studied and comprehended six chapters from "Topology without tears" by Justin Thaler, culminating in a detailed report on Topological Spaces."
-      
-      - title: Wordle Solver
-        link: "#"
-        tagline: "Created a python program that guesses the correct word within six tries"
-      
-      - title: Some basic ML models
-        link: "#"
-        tagline: "Solved some basic ML problems from kaggle using sklearn and pytorch"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 oss:
 publications:
 skills:
