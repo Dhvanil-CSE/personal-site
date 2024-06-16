@@ -42,14 +42,9 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello, I am Dhvanil,a UG 3rd year at IIT Bombay in the CSE department.I am highly interested in research projects. My favourite topics are Cryptography, Logic, Automata, AI-ML, Design and Analysis of Algorithms and I like Mathematics.You can [download my resume/CV here](https://github.com/Dhvanil-CSE/personal-site/raw/master/resume.pdf).
 education:
     title: Education
     info:
@@ -65,143 +60,71 @@ experiences:
     info:
       - role: Lead Developer in Automata Tutor v3
         time: Summer 2024
-        University: Masaryk University
+        company: Masaryk University
         details: |
           I am currently pursuing this role under the esteemed guidance of Prof. Jan Křetínský and have done the following till now
             - Dockerised backend and frontend of Automata tutor for the ease of deployment regardless of the operating system and environment
             - Implemented an automated system for generating various problem types, facilitating both course instructors in creating assignments and users in practicing independently
             - Implemented a system for finding derivation of grammar and verifying the correctness of user-provided answer
+      - role: Events Coordinator
+        time: December 2023
+        company: TechFest, IIT Bombay
+        details: |
+            I successfully coordinated and managed over 200 College Ambassadors for the execution of Techfest zonals. In this role, I contacted and invited professors from around the globe to showcase their projects and research at an exhibition. Additionally, I coordinated significant events such as a Cyclothon and a stem cell donation drive in collaboration with a prominent NGO.
       
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have undertaken and completed the following projects, each reflecting my skills and dedication to delivering high-quality work.
     assignments:
-      - title: Velocity
+      - title: Brain Tumor Detection
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Guided students in mastering CNNs for brain tumor detection models with accuracy of 89%"
 
-      - title: DevStudio
+      - title: Homomorphic Encryption of k-NN on the cloud
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Developed a secure and controllable k-NN query system over encrypted cloud data, utilizing Homomorphic Encryption, Docker, sockets, and SageMath to enhance database security and efficiency, based on the research by Youwen Zhu, Zhiqiu Huang, and Tsuyoshi Takagi"
 
-      - title: Tempo
+      - title: Introduction to Cryptography
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Developed a Vigenère Cracker that decrypts encoded messages using frequency analysis and a minimized chi-squared statistic, and implemented RSA digital signatures with SHA-256 for file integrity verification."
 
-      - title: Atom
+      - title: Neural Networks and LLMs
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Fine-tuned the MT5 model for language identification with pipelines and transformers, implemented Skip-gram word embeddings for word vector analysis, and developed an 86% accurate sentiment analysis system for movie reviews using LSTM and RNN."
 
-      - title: Delta
+      - title: Into the RLverse
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+        tagline: "Implemented algorithms like Thompson Sampling (TS) and Upper Confidence Bound (UCB) for Multi-Armed Bandits (MAB), understood and applied Monte Carlo and TD algorithms with eligibility traces, and developed RL models including Deep Q Networks and Dueling Deep Q Networks for environments like CartPole and Atari: Breakout from OpenAI Gym."
+      
+      - title: Algorithmic Trader
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+        tagline: "Executed algorithmic trading strategies such as arbitrage and median filter, managing the order book with advanced Data Structures and Algorithms (DSA) to optimize trade execution. Applied OOP principles in C++ to develop custom data structures for efficient data management."
+      
+      - title: Data Compression and Text Processing
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
+        tagline: "Implemented Run Length Encoding (RLE) and Huffman compression algorithms in C++, utilizing trie structures for compression and decompression functionalities. Executed the KMP Pattern Matching Algorithm for precise string pattern matching and designed fundamental data structures such as Heap and Red-Black Tree in C++ for efficient operations."
+      
+      - title: Customised Web Crawler
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+        tagline: "Implemented a Web Crawler using BeautifulSoup for parsing websites, NumPy for data handling, and Matplotlib for visualizing file types with Bar charts, while incorporating customizable recursion thresholds and output categorization capabilities."
+      
+      - title: Zero Knowledge Proofs
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        tagline: "Studied and comprehended eleven chapters from "Proofs, Arguments, and Zero-Knowledge" by Justin Thaler, culminating in a detailed report on Zero Knowledge Proofs and Arguments."
+      
+      - title: Topology
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+        tagline: "Studied and comprehended six chapters from "Topology without tears" by Justin Thaler, culminating in a detailed report on Topological Spaces."
+      
+      - title: Wordle Solver
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Created a python program that guesses the correct word within six tries"
+      
+      - title: Some basic ML models
+        link: "#"
+        tagline: "Solved some basic ML problems from kaggle using sklearn and pytorch"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+    
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
