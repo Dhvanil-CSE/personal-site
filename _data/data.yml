@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      Hello, I am Dhvanil,a UG 3rd year at IIT Bombay in the CSE department.I am highly interested in research projects. My favourite topics are Cryptography, Logic, Automata, AI-ML, Design and Analysis of Algorithms and I like Mathematics.You can [download my resume/CV here](https://github.com/Dhvanil-CSE/personal-site/raw/master/resume.pdf).
+      Hello, I am Dhvanil, a UG 3rd year at IIT Bombay in the CSE department. I am highly interested in research projects. My favourite topics are Cryptography, Logic, Automata, AI-ML, Design and Analysis of Algorithms and I like Mathematics. You can [download my resume/CV here](https://github.com/Dhvanil-CSE/personal-site/raw/master/resume.pdf).
 education:
     title: Education
     info:
@@ -75,9 +75,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have undertaken and completed the following projects, each reflecting my skills and dedication to delivering high-quality work.
     assignments:
       - title: Brain Tumor Detection
         link: "#hook"
