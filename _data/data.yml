@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Dhvanil Gheewala
-    tagline: Interested in AI-ML and theoretical CS
+    tagline: Interested in Theoretical CS
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      Hello, I am Dhvanil, a UG 3rd year at IIT Bombay in the CSE department. I am highly interested in research projects. My favourite topics are Cryptography, Logic, Automata, AI-ML, Design and Analysis of Algorithms and I like Mathematics. You can [download my resume/CV here](https://github.com/Dhvanil-CSE/personal-site/raw/master/resume.pdf).
+      Hello, I am Dhvanil, a UG 4th year at IIT Bombay in the CSE department. I am highly interested in research in Formal Verification, Game Theory and Programming Languages. You can [download my resume/CV here](https://github.com/Dhvanil-CSE/personal-site/raw/master/resume.pdf).
 education:
     title: Education
     info:
@@ -51,30 +51,70 @@ education:
         university: IIT Bombay
         time: 2022 - Present
         details: |
-          I am pursuing BTech in CSE and minor in Machine Intelligence and Data Science. I have complemented many important courses like Linear Algebra, Discrete Structures, Data Structures and Algorithms,
+          I am pursuing BTech with honors in Computer Science and Engineering. I have complemented many important courses like Linear Algebra, Discrete Structures, Data Structures and Algorithms,
           Data Analysis and Interpretation, Digital Logic Design and Computer Architecture, Mathematical Structures for Control, Automata Theory and Logic, AI-ML,Design and Analysis of Algorithms, Operating Systems,
           Cryptography and Network Security, Automated Reasoning.
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer in Automata Tutor v3
-        time: Summer 2024
-        company: Masaryk University
+      - role: Product Engineer Intern : Optimising Whisper for Low Resource Languages 
+        time: Summer 2025
+        company: Sprinklr, Gurugram
         details: |
-          I am currently pursuing this role under the esteemed guidance of Prof. Jan Křetínský and have done the following till now
-            - Dockerised backend and frontend of Automata tutor for the ease of deployment regardless of the operating system and environment
-            - Implemented an automated system for generating various problem types, facilitating both course instructors in creating assignments and users in practicing independently
-            - Implemented a system for finding derivation of grammar and verifying the correctness of user-provided answer
+            - Fine-tuned both Whisper-large and Whisper-small models on a low-resource language along with its closest high-resource counterpart for ASR; evaluated and benchmarked performance against zero-shot baselines
+            - Performed knowledge distillation from Whisper-large to small using subsampling techniques and pseudolabelling
+            - Experimented with freezing lower encoder layers and WER threshold and other hyperparameters to improve WER
+        - Further improved WER by incorporating secondary labels as prompts into the distilled Whisper model
+    - role: QBF Proof Systems and Skolem Synthesis
+      time: (Jan. 2025 - May 2025)
+      company: IIT Bombay
+      details: |
+          - Studied foundational QBF proof systems: Q-Resolution, LD-Q-Res, ∀Exp+Res, AReQS, QRAT and analysed soundness
+          - Explored extraction of Skolem functions from proofs using DAG-based method given by Balabnov and Jiang 
+          - Devising a method to extract Skolem/Herbrand functions from LD-Q-Res proofs without converting to Q-Res
+    
+    - role: Revenue Maximising in Intermediary Network Auctions
+      time: (Jan. 2025 - May 2025)
+      company: IIT Bombay
+      details: |
+          - Structured the INA problem as a weighted unidirectional graph with agents and seller as vertices and cost as edge weights, specifying type distributions and valuation models for intermediaries and buyers in a Bayesian setting
+          - Formulated allocation and payment functions for line and star graphs based on Myerson’s theory 
+          - Established that intermediary network auction design in general tree networks is at least as hard as the Unit-Demand Multiple-Object (UDMO) auction problem, which to date has only approximate algorithms
+     - role: QBF Proof Systems and Skolem Synthesis
+      time: (Jan. 2025 - May 2025)
+      company: IIT Bombay
+      details: |
+          - Studied foundational QBF proof systems: Q-Resolution, LD-Q-Res, ∀Exp+Res, AReQS, QRAT and analysed soundness
+          - Explored extraction of Skolem functions from proofs using DAG-based method given by Balabnov and Jiang 
+          - Devising a method to extract Skolem/Herbrand functions from LD-Q-Res proofs without converting to Q-Res
+      - role: Workflow Optimization for BharatGen
+        time: Sept. 2024
+        company: IIT Bombay
+        details: |
+            - Implemented a Python script using the YouTube Data API v3 to identify copyright-free videos by analyzing metadata such as title, description, and license type for training BharatGen on agricultural knowledge
+            - Developed an automated pipeline integrating Google Sheets, Google Drive, and Gmail to streamline task allocation, file sharing, and real-time notifications for annotators and verifiers in the BharatGen project
+            - Built a Gradio-based web application with Ngrok integration for collection of diverse public audio recordings
+Positions of Responsibilities:
       - role: Events Coordinator
         time: December 2023
         company: TechFest, IIT Bombay
         details: |
             I successfully coordinated and managed over 200 College Ambassadors for the execution of Techfest zonals. In this role, I contacted and invited professors from around the globe to showcase their projects and research at an exhibition. Additionally, I coordinated significant events such as a Cyclothon and a stem cell donation drive in collaboration with a prominent NGO.
+      - role : Mentor - Brain Tumor Detection
+        time : Winter 2023
+        company : Analytics Club IIT Bombay 
+        details: |
+            Guided students in mastering Convolutional Neural Networks (CNNs) and hands-on implementation using PyTorch for robust Brain Tumor Detection models that can detect tumor upto the accuracy of 89%
+      - role : Volunteer Tutor for Underprivileged Students
+        time : 2022 - 2023
+        company : National Service Scheme 
+        details: |
+            Participated in a year-long NSS initiative, mentoring Class 12 students preparing for the JEE entrance exam and taught basic topics in Physics and Mathematics
 certifications:      
 projects:
     title: Projects
     intro: >
-      I have undertaken and completed the following projects, each reflecting my skills and dedication to delivering high-quality work.
+      I have undertaken and completed the following projects, each reflecting my skills and dedication to my work.
     assignments:
       - title: Brain Tumor Detection
         link: "#hook"
