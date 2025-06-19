@@ -79,7 +79,7 @@ experiences:
         - Developed a workflow automation pipeline using Google Sheets, Drive, and Gmail for efficient annotation management.
         - Designed a Gradio + Ngrok interface to collect diverse audio samples from the public.
 
-positions-of-responsibility:
+pors:
   title: Positions of Responsibility
   info:
     - role: Events Coordinator
