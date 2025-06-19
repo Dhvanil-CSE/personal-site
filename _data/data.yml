@@ -1,5 +1,6 @@
 sidebar:
   position: right
+  about: False
   education: True
 
   name: Dhvanil Gheewala
