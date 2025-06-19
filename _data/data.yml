@@ -105,38 +105,69 @@ projects:
   intro: >
     I have undertaken and completed the following projects, each reflecting my skills and dedication to my work.
   assignments:
-    - title: Homomorphic Encryption of k-NN on the Cloud
-      tagline: Developed secure k-NN over encrypted cloud data using Homomorphic Encryption, Docker, sockets, and SageMath.
+    - title: Robust Non-Probabilistic Shield for Environmental Uncertainty
+      tagline: Developed a safety-aware reinforcement learning shield to maintain safe actions under uncertainty using theoretical guarantees and real-time perception loss simulation.
 
-    - title: Introduction to Cryptography
-      tagline: Built a Vigenère Cracker using frequency analysis and RSA digital signature verifier using SHA-256.
+    - title: Simulation of a P2P Cryptocurrency Network
+      tagline: Built a discrete-event blockchain simulator with PoW consensus, selfish mining, eclipse attack mitigation, and block validation using tree-based recovery.
 
-    - title: Neural Networks and LLMs
-      tagline: Fine-tuned MT5 for language ID, implemented Skip-gram embeddings, and built an LSTM-based sentiment analysis model.
+    - title: Compiler for Simple C-like Language
+      tagline: Designed a full compiler for a C-like language using lex/yacc, generating ASTs, TAC, RTL, and MIPS assembly with recursion and control flow support.
+
+    - title: MangoDB – An Advanced IMDB Clone
+      tagline: Created an IMDB clone with PSQL, React, and REST APIs featuring search, review, recommendations, email verification, DoS protection, and social features.
+
+    - title: A 4-Piece Chess Relocation
+      tagline: Engineered an optimization framework using Stockfish to find optimal pre-game relocations of 4 chess pieces for maximal strategic advantage.
+
+    - title: xv6 Operating System
+      tagline: Enhanced xv6 by implementing file operations, multithreading, copy-on-write paging, and a user shell with round-robin scheduling.
+
+    - title: Sound-based Data Link Layer
+      tagline: Developed an audio link-layer protocol with multi-tone RZ encoding, CRC-k error correction, Welch denoising, and CSMA/CA-based collision handling.
+
+    - title: Homomorphic Encryption for k-NN on the Cloud
+      tagline: Built a privacy-preserving k-NN system using homomorphic encryption, Docker-based architecture, and secure socket communication over cloud servers.
 
     - title: Into the RLverse
-      tagline: Implemented TS, UCB, MC, TD, and DQN algorithms across OpenAI Gym environments like CartPole and Breakout.
+      tagline: Implemented TS, UCB, MC, TD, and DQN algorithms to solve MABs and RL tasks across OpenAI Gym and custom environments like Snake and Tic-Tac-Toe.
+
+    - title: Smart Contracts & DeFi Simulation
+      tagline: Designed a Decentralized Exchange (DEX) using Solidity with AMM logic, liquidity provisioning, arbitrage modeling, and Hardhat-based testing.
 
     - title: Algorithmic Trader
-      tagline: C++ based trading bot implementing arbitrage and median filter strategies with optimized order book management.
+      tagline: Developed a C++ trading simulator implementing arbitrage and median filters with custom data structures and profit evaluation across traders.
+
+    - title: Routing Protocol Implementation
+      tagline: Implemented a distance-vector routing protocol with split horizon and custom functions for segment transmission, forwarding, and periodic updates.
+
+    - title: Neural Networks and LLMs
+      tagline: Fine-tuned MT5 for language ID, built Skip-gram embeddings, and developed an LSTM-based sentiment analysis system with 86% accuracy.
 
     - title: Data Compression and Text Processing
-      tagline: Developed RLE, Huffman, KMP, Trie, Heap, and Red-Black Tree implementations in C++ for compression and search.
+      tagline: Implemented RLE, Huffman, KMP, Trie, and Red-Black Tree algorithms in C++ for text compression, decompression, and pattern matching.
 
     - title: Customised Web Crawler
-      tagline: Built a crawler using BeautifulSoup and Matplotlib to visualize file types; supported recursion depth control.
+      tagline: Built a web crawler using BeautifulSoup and Matplotlib with support for recursion depth control and file type visualizations via bar charts.
+    
+    - title: Disintegration Game
+      tagline: Designed and analyzed a 2-player combinatorial game on a 3D graph using canonical forms, temperatures, and atomic weights to study strategic move optimization.
+
+    - title: Shor’s Algorithm
+      tagline: Reviewed Peter Shor’s quantum factoring algorithm, exploring its exponential speedup over classical methods and implications for modern cryptography.
 
     - title: Zero Knowledge Proofs
-      tagline: Studied 11 chapters from Thaler’s textbook and compiled a comprehensive report on ZKPs and arguments.
+      tagline: Studied Justin Thaler’s text on Zero-Knowledge Proofs and compiled a detailed report covering ZKP fundamentals and argument systems.
 
     - title: Topology
-      tagline: Studied topological spaces via “Topology Without Tears” and submitted a final report.
+      tagline: Explored foundational topology concepts through “Topology Without Tears,” culminating in a report on topological spaces and continuity.
 
     - title: Wordle Solver
-      tagline: Created a Python script to solve Wordle puzzles within six guesses.
+      tagline: Developed a Python-based solver that reliably guesses the correct Wordle word within six attempts.
 
     - title: Basic ML Models
-      tagline: Implemented several ML models from Kaggle using scikit-learn and PyTorch.
+      tagline: Solved ML tasks using scikit-learn and PyTorch, including regression and classification models on datasets from Kaggle.
+
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by Dhvanil
