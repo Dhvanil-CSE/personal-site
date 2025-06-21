@@ -70,6 +70,15 @@ experiences:
         - Modeled the problem using graphs and Bayesian settings, specifying type distributions and valuation functions.
         - Designed mechanisms for line and star graphs using Myerson’s optimal auction theory.
         - Proved hardness of general auction design in tree networks by reducing from UDMO.
+    - role: Lead Developer in Automata Tutor v3
+      time: Summer 2024
+      company: Masaryk University
+      details: |
+        Pursued this role under the esteemed guidance of Prof. Jan Křetínský and contributed to the development of Automata Tutor as follows:
+          - Dockerised the backend and frontend of both the current and upcoming versions of Automata Tutor for seamless deployment across different operating systems and environments
+          - Implemented an automated system for generating various problem types to assist instructors in assignment creation and enable independent practice for students
+          - Developed a system to compute grammar derivations and verify the correctness of user-provided answers
+          - Created a feedback mechanism using backend functions and stored relevant user data in a structured database to enhance learning analytics and future assistance
 
     - role: Workflow Optimization for BharatGen
       time: Sept 2024
