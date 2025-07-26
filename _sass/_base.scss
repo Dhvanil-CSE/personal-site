@@ -6,7 +6,6 @@
   height: 100vh;
   overflow-y: auto;
   z-index: 1000;
-
   background: $theme-color;
   color: #fff;
 
@@ -98,7 +97,7 @@
 }
 
 .main-wrapper {
-  margin-left: 350px; // matches sidebar width
+  margin-left: 350px;
   padding: 60px;
   background: #fff;
   font-size: 18px;
@@ -189,5 +188,53 @@
     text-align: center;
     font-size: 14px;
     color: $text-color-secondary;
+  }
+}
+
+/* ========== Responsive Styles ========== */
+@media (max-width: 768px) {
+  .sidebar-wrapper {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+
+  .main-wrapper {
+    margin-left: 0;
+    max-width: 100%;
+    padding: 20px;
+    font-size: 16px;
+
+    .section-title {
+      font-size: 22px;
+    }
+
+    .job-title,
+    .degree,
+    .cert-title {
+      font-size: 20px;
+    }
+
+    .time,
+    .cert-url {
+      font-size: 14px;
+    }
+
+    .project-title,
+    .publication-title {
+      font-size: 18px;
+    }
+  }
+
+  .upper-row,
+  .second-upper-row {
+    flex-direction: column;
+    align-items: flex-start;
+
+    .time,
+    .cert-url {
+      text-align: left;
+      margin-top: 5px;
+    }
   }
 }
