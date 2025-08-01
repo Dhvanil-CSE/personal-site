@@ -31,11 +31,11 @@ sidebar:
 career-profile:
   title: About
   summary: |
-    Hello, I am Dhvanil, a UG 4th year at IIT Bombay in the CSE department. I am highly interested in research in Formal Verification, Game Theory and Programming Languages and enjoy reading research papers in these fields. I am currently working with Prof. Supratik Chakraborty and Prof S. Akshay on Skolem Synthesis and Prof. Swaprava Nath on Intermediary Network Auctions.
+    Hello, I am Dhvanil, a UG 4th year at IIT Bombay in the CSE department. I am highly interested in research in Formal Verification, Game Theory and Programming Languages and enjoy reading research papers in these fields. I am currently working with [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/) and [Prof S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) on Skolem Synthesis and Prof. Swaprava Nath on Intermediary Network Auctions.
 
     You can [download my resume/CV here](https://github.com/Dhvanil-CSE/personal-site/raw/master/resume.pdf).
 
-    I am always eager to learn and expand my knowledge in the fields of Computer Science, and learn new perspectives by collaborating with others. I want to get better at presenting my work and ideas. I am a huge Hodophile! and large fan of mystery/thriller and rich character driven stories whether it’s in a book, a movie, or a game. And give me a windy day with good music? Instant mood-lifter. I believe the work done today by us will shape the future.
+    I am always eager to learn and expand my knowledge in the fields of Computer Science, and learn new perspectives by collaborating with others. I want to get better at presenting my work and ideas. I am a huge hodophile! and large fan of mystery/thriller and rich character driven stories whether it’s in a book, a movie, or a game. A windy day with good music? That’s my bliss. I believe the work done today by us will shape the future.
 
     For Those Who Come After!
 
@@ -56,23 +56,21 @@ experiences:
       time: Summer 2025
       company: Sprinklr, Gurugram
       details: |
-        - Fine-tuned Whisper-large and Whisper-small on a low-resource language alongside a related high-resource counterpart for ASR, benchmarking against zero-shot performance.
-        - Conducted knowledge distillation using subsampling and pseudo-labelling strategies.
-        - Improved WER by freezing encoder layers and tuning thresholds/hyperparameters.
-        - Incorporated secondary labels as prompts into the student model to further improve WER.
+          - Fine-tuned and distilled Whisper models for low-resource ASR using high-resource     counterparts, pseudolabeling, and subsampling; evaluated against zero-shots while experimenting with encoder freezing and WER thresholds
+          - Improved Whisper's transcription accuracy by integrating n-gram KenLM and StableLM (StabilityAI) to rescore top-k beam outputs, and enhanced the model by incorporating secondary labels as prompts to guide decoding
 
     - role: QBF Proof Systems and Skolem Synthesis
       time: Jan 2025 – May 2025
       company: IIT Bombay
       details: |
-        - Studied foundational QBF proof systems: Q-Resolution, LD-Q-Res, ∀Exp+Res, AReQS, QRAT and their soundness properties.
+        - Studied foundational QBF proof systems: Q-Resolution, LD-Q-Res, vExp-Res, AReQS, QRAT and their soundness properties
         - Investigated DAG-based Skolem function extraction and explored methods to extract functions from LD-Q-Res proofs without converting to Q-Res.
 
     - role: Revenue Maximising in Intermediary Network Auctions
       time: Jan 2025 – May 2025
       company: IIT Bombay
       details: |
-        - Modeled the problem using graphs and Bayesian settings, specifying type distributions and valuation functions.
+        - Modeled the problem using graphs and Bayesian settings, specifying type distributions and valuation functions
         - Designed mechanisms for line and star graphs using Myerson’s optimal auction theory.
         - Proved hardness of general auction design in tree networks by reducing from UDMO.
     - role: Lead Developer in Automata Tutor v3
@@ -100,19 +98,23 @@ pors:
       time: Dec 2023
       company: Techfest, IIT Bombay
       details: |
-        Coordinated 200+ College Ambassadors for zonal execution. Invited professors globally for exhibitions and helped organize key events such as Cyclothon and a stem cell donation drive in partnership with an NGO.
+            - Managed 200+ College Ambassadors across multiple zones for Techfest execution and outreach programs
+            - Established international partnerships by inviting global professors to showcase research projects in exhibitions
+            - Organized large-scale social impact events including Cyclothon and stem cell donation drives with NGO collaboration
 
     - role: Mentor – Brain Tumor Detection
       time: Winter 2023
       company: Analytics Club, IIT Bombay
       details: |
-        Guided students through CNN concepts and PyTorch implementation for brain tumor classification, achieving 89% model accuracy.
+            - Mentored students in CNN architectures and PyTorch implementation, achieving 89% accuracy in brain tumor detection models
+            - Designed curriculum covering neural network fundamentals and NumPy implementations to reduce framework dependency
 
     - role: Volunteer Tutor for Underprivileged Students
       time: 2022 – 2023
       company: National Service Scheme
       details: |
-        Mentored Class 12 students preparing for the JEE entrance exam. Taught core concepts in Physics (Kinematics, Newton’s Laws) and Mathematics (Trigonometry).
+            - Led year-long educational initiative tutoring underprivileged Class 12 students in JEE preparation
+            - Delivered structured lessons in Physics and Mathematics to improve academic understanding
 
 projects:
   title: Projects

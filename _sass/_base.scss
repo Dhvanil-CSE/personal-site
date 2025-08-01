@@ -115,7 +115,26 @@
     margin-bottom: 30px;
   }
 
-  .experiences-section,
+  // .experiences-section,
+  .experiences-section {
+    .item {
+      margin-top: 5px;
+      margin-bottom: 10px;
+      
+      // Add this to limit bullet point width
+      ul, ol {
+        max-width: 90%; // Adjust this percentage as needed
+        li {
+          margin-bottom: 8px;
+          line-height: 1.4;
+        }
+      }
+    }
+    
+    .job-title {
+      margin-top: 0;
+    }
+  }
   .educations-section,
   .positions-section {
     .item {
