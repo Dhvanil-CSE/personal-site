@@ -31,7 +31,7 @@ sidebar:
 career-profile:
   title: About
   summary: |
-    Hello, I am Dhvanil, a UG 4th year at IIT Bombay in the CSE department. I am highly interested in research in Formal Verification, Game Theory and Programming Languages and enjoy reading research papers in these fields. I am currently working with [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/) and [Prof S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) on Skolem Synthesis and Prof. Swaprava Nath on Intermediary Network Auctions.
+    Hello, I am Dhvanil, a UG 4th year at IIT Bombay in the CSE department. I am highly interested in research in Formal Verification, Game Theory and Programming Languages and enjoy reading research papers in these fields. I am currently working with [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/) and [Prof S. Akshay](https://www.cse.iitb.ac.in/~akshayss/) on Skolem Synthesis and [Prof. Swaprava Nath](https://www.cse.iitb.ac.in/~swaprava/) on Intermediary Network Auctions.
 
     You can [download my resume/CV here](https://github.com/Dhvanil-CSE/personal-site/raw/master/resume.pdf).
 
@@ -63,16 +63,16 @@ experiences:
       time: Jan 2025 – May 2025
       company: IIT Bombay
       details: |
-        - Studied foundational QBF proof systems: Q-Resolution, LD-Q-Res, vExp-Res, AReQS, QRAT and their soundness properties
-        - Investigated DAG-based Skolem function extraction and explored methods to extract functions from LD-Q-Res proofs without converting to Q-Res.
+        - Studied foundational QBF proof systems: Q-Resolution, LD-Q-Res, ∀Exp-Res, AReQS, QRAT and their soundness properties
+        - Investigated DAG-based Skolem function extraction and explored methods to extract functions from LD-Q-Res proofs without converting to Q-Res
 
     - role: Revenue Maximising in Intermediary Network Auctions
       time: Jan 2025 – May 2025
       company: IIT Bombay
       details: |
         - Modeled the problem using graphs and Bayesian settings, specifying type distributions and valuation functions
-        - Designed mechanisms for line and star graphs using Myerson’s optimal auction theory.
-        - Proved hardness of general auction design in tree networks by reducing from UDMO.
+        - Designed mechanisms for line and star graphs using Myerson’s optimal auction theory
+        - Proved hardness of general auction design in tree networks by reducing from UDMO
     - role: Lead Developer in Automata Tutor v3
       time: Summer 2024
       company: Masaryk University
@@ -87,9 +87,9 @@ experiences:
       time: Sept 2024
       company: IIT Bombay
       details: |
-        - Built a script using YouTube Data API v3 to extract copyright-free videos based on metadata.
-        - Developed a workflow automation pipeline using Google Sheets, Drive, and Gmail for efficient annotation management.
-        - Designed a Gradio + Ngrok interface to collect diverse audio samples from the public.
+        - Built a script using YouTube Data API v3 to extract copyright-free videos based on metadata
+        - Developed a workflow automation pipeline using Google Sheets, Drive, and Gmail for efficient annotation management
+        - Designed a Gradio + Ngrok interface to collect diverse audio samples from the public
 
 pors:
   title: Positions of Responsibility
